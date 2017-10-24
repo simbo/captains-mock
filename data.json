@@ -1,0 +1,20 @@
+[
+  {
+    "id": "6137138c-6322-4285-9aa2-76cd787e02b3",
+    "firstname": "James",
+    "middlename": "Tiberius",
+    "lastname": "Kirk"
+  },
+  {
+    "id": "055ae2b5-2ac5-4841-963e-2e8d9d8ffb40",
+    "firstname": "Jean-Luc",
+    "middlename": null,
+    "lastname": "Picard"
+  },
+  {
+    "id": "90231985-a5cb-44b6-b7c3-1b1dc68d93fc",
+    "firstname": "Kathryn",
+    "middlename": null,
+    "lastname": "Janeway"
+  }
+]
